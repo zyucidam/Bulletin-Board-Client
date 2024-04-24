@@ -1,0 +1,12 @@
+# ninja log v5
+0	62	7212938554573850	build.ninja	fed5b0e0f520ec6f
+1	698	7212932363705547	CMakeFiles/BulletinBoardClient.dir/main.cpp.obj	d4f176821d550bce
+715	936	7212932366056947	BulletinBoardClient.exe	803d980a48a62a82
+9	681	7212932363463806	CMakeFiles/BulletinBoardClient.dir/Connect.cpp.obj	53c38880b7093aee
+5	715	7212932363870463	CMakeFiles/BulletinBoardClient.dir/Command.cpp.obj	c5cdb6faf5a3f1e8
+0	6	0	clean	b62f787c7421a33e
+8	693	7212938607381636	CMakeFiles/BulletinBoardClient.dir/Connect.cpp.obj	53c38880b7093aee
+1	701	7212938607456601	CMakeFiles/BulletinBoardClient.dir/main.cpp.obj	d4f176821d550bce
+5	723	7212938607676784	CMakeFiles/BulletinBoardClient.dir/Command.cpp.obj	c5cdb6faf5a3f1e8
+723	937	7212938609779020	BulletinBoardClient.exe	803d980a48a62a82
+5	226	7212946948508556	BulletinBoardClient.exe	803d980a48a62a82
